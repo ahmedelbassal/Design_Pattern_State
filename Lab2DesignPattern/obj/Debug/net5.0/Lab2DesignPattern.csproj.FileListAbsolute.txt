@@ -1,0 +1,16 @@
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\bin\Debug\net5.0\Lab2DesignPattern.exe
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\bin\Debug\net5.0\Lab2DesignPattern.deps.json
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\bin\Debug\net5.0\Lab2DesignPattern.runtimeconfig.json
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\bin\Debug\net5.0\Lab2DesignPattern.runtimeconfig.dev.json
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\bin\Debug\net5.0\Lab2DesignPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\bin\Debug\net5.0\ref\Lab2DesignPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\bin\Debug\net5.0\Lab2DesignPattern.pdb
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\obj\Debug\net5.0\Lab2DesignPattern.csprojAssemblyReference.cache
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\obj\Debug\net5.0\Lab2DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\obj\Debug\net5.0\Lab2DesignPattern.AssemblyInfoInputs.cache
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\obj\Debug\net5.0\Lab2DesignPattern.AssemblyInfo.cs
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\obj\Debug\net5.0\Lab2DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\obj\Debug\net5.0\Lab2DesignPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\obj\Debug\net5.0\ref\Lab2DesignPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\obj\Debug\net5.0\Lab2DesignPattern.pdb
+C:\Users\AHMED EL BASAL\source\repos\Lab2DesignPattern\Lab2DesignPattern\obj\Debug\net5.0\Lab2DesignPattern.genruntimeconfig.cache
